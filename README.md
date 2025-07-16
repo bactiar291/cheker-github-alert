@@ -4,13 +4,13 @@
 # contoh di terminal nya jika skrip menunjukan tanda bahaya 
  Memindai folder:  /home//cheker-github-alert/scripts
 
-✅ Pemindaian selesai. Laporan disimpan di: /workspaces/codespaces-blank/cheker-github-alert/laporan_pemindaian.json
+✅ Pemindaian selesai. Laporan disimpan di:  /home/cheker-github-alert/laporan_pemindaian.json
 
 📄 cek.txt | Bahasa: JS | Aman: ❌ | Risiko: 16.7%
    ⚠️  Penggunaan eval() (JS)
    
 # contoh di terminal nya jika skrip menunjukan tanda aman 
-🔍 Memindai folder: /workspaces/codespaces-blank/cheker-github-alert/scripts
+🔍 Memindai folder:  /home//cheker-github-alert/scripts
 
 ✅ Pemindaian selesai. Laporan disimpan di:  /home//cheker-github-alert/laporan_pemindaian.json
 
